@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Max-veda
 - 👀 I’m interested in Data Science, Data Analytics,  Machine Learning, and Project Management 
-- 🌱 I’m currently learning various coding methods and A.I technology 
+- 🌱 I’m currently learning various coding methods and A.I technology
 - 💞️ I’m looking to collaborate on any projects that are challenging and will increase my skills as a Data Scientist
 - 📫 How to reach me ...maxvedag@gmail.com, Linkedin: https://www.linkedin.com/in/max-veda-golafale-016226199/
 - 😄 Pronouns: Her, She
